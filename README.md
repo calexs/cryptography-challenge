@@ -15,4 +15,4 @@ confidencialidade e integridade
 
 Evidenciar a transmissão com a ferramenta Wireshark!
 
-TODO: add YouTube link.
+> Youtube link for the video: https://youtu.be/pFJY0x4EiP4
